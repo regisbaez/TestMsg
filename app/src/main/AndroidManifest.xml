@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.testmsg">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LogActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".A1" />
+        <activity android:name=".A2" />
+        <activity android:name=".A3" />
+        <activity android:name=".A4" />
+        <activity android:name=".Arq" />
+        <activity android:name=".Bibl" />
+        <activity android:name=".Cb" />
+        <activity android:name=".Dep" />
+        <activity android:name=".Foto" />
+        <activity android:name=".J23" />
+        <activity android:name=".MapaElec" />
+        <activity android:name=".Mat" />
+        <activity android:name=".Pa" />
+        <activity android:name=".PanicB" />
+        <activity android:name=".Pens" />
+        <activity android:name=".Principal" />
+        <activity android:name=".Reg" />
+        <activity android:name=".Tep" />
+        <activity android:name=".Puntosreu"></activity>
+    </application>
+
+</manifest>

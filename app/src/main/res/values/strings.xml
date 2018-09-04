@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PUCMM segura</string>
+    <string name="IB"> Emergencias </string>
+    <string name="txt_nombre">Name</string>
+    <string name="txt_password">password</string>
+    <string name="Button1">Entrar</string>
+    <string name="Button2">Botones Panico</string>
+    <string name="Button3">Chat Seguridad</string>
+    <string name="Button4">Fotos Emergencia</string>
+    <string name="Button5">Mapa</string>
+    <string name="Button6">salir</string>
+    <string name="Button7">Tirar foto</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Button8">Location</string>
+    <string name="Button9">Generar Mapa</string>
+    <string name="title_activity_j23">J23</string>
+</resources>
